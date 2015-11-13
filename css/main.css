@@ -1,0 +1,108 @@
+h2{
+	text-align: center;
+	color: #000033;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+li{
+	list-style-type: none;
+	display: inline;
+	padding: 5%;
+}
+.studio{
+	background: url("../img/dance_1.jpg");
+	height: 500px;
+	margin-top: 5%;
+}
+h1{
+	color: white;
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	font-size: 3em;
+}
+.blanco{
+	color: white;
+	text-align: center;
+	margin-bottom: 10%;
+}
+button{
+	border-radius: 5%;
+	border: solid 1px #000033;
+	background: #000033;
+	color: white;
+	margin: 20% 30%;
+	text-align: center;
+	padding: 2%;
+}
+.textura{
+	background: url("../img/textura_2.jpg");
+	height: 400px;
+}
+.grande{
+	margin-top: 5%;
+	font-size: 2em;
+	text-align: center;
+}
+.decoracion{
+	position: absolute;
+	right: 40%;
+	width: 25%;
+	height: 25%;
+}
+.instructor{
+	width: 50%;
+	height: 300px;
+	background-size: 100% 100%;
+	border: 2px solid #000033;
+	float: left;
+}
+.instructores{
+	background:#000033;
+	color: white;
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: -3%;
+	position: relative;
+	z-index: 1;
+	width: 100%
+}
+.azul{
+	background:#000033;
+	color: white;
+	text-align: center;
+	padding: 2%;
+}
+.mapa{
+	width: 100%;
+	height: 100%;
+}
+h3{
+	margin-top: 10%;
+	margin-bottom:10%;
+}
+input{
+	width: 100%;
+	height: 100%;
+	padding: 5% 12%;
+	border: solid 1px #d0d0d0;
+	display: block;
+	margin-top:5%;
+}
+.zapato{
+	width: 100%;
+	height: 100%;
+}
+.lapiz{
+	background: url("../img/lapiz.png");
+}
+.persona{
+	background: url("../img/persona.png");
+}
+.mensaje{
+	background: url("../img/sobre.png");
+}
+.icono{
+	background-size: 10% 50%;
+	background-repeat: no-repeat;
+}
